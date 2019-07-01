@@ -1,2 +1,2 @@
-# Darkfb.py
+# Zeargames
 Zeargames
